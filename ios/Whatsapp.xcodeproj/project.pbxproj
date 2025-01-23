@@ -8,6 +8,43 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* WhatsappTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WhatsappTests.m */; };
+		036925662D40367E0031FDDB /* FBReactNativeSpec-generated.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0369250F2D40367E0031FDDB /* FBReactNativeSpec-generated.mm */; };
+		036925672D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925122D40367E0031FDDB /* ComponentDescriptors.cpp */; };
+		036925682D40367E0031FDDB /* EventEmitters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925142D40367E0031FDDB /* EventEmitters.cpp */; };
+		036925692D40367E0031FDDB /* Props.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925162D40367E0031FDDB /* Props.cpp */; };
+		0369256A2D40367E0031FDDB /* ShadowNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925192D40367E0031FDDB /* ShadowNodes.cpp */; };
+		0369256B2D40367E0031FDDB /* States.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369251B2D40367E0031FDDB /* States.cpp */; };
+		0369256C2D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369251E2D40367E0031FDDB /* ComponentDescriptors.cpp */; };
+		0369256D2D40367E0031FDDB /* EventEmitters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925202D40367E0031FDDB /* EventEmitters.cpp */; };
+		0369256E2D40367E0031FDDB /* Props.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925222D40367E0031FDDB /* Props.cpp */; };
+		0369256F2D40367E0031FDDB /* ShadowNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925252D40367E0031FDDB /* ShadowNodes.cpp */; };
+		036925702D40367E0031FDDB /* States.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925272D40367E0031FDDB /* States.cpp */; };
+		036925712D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369252A2D40367E0031FDDB /* ComponentDescriptors.cpp */; };
+		036925722D40367E0031FDDB /* EventEmitters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369252C2D40367E0031FDDB /* EventEmitters.cpp */; };
+		036925732D40367E0031FDDB /* Props.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369252E2D40367E0031FDDB /* Props.cpp */; };
+		036925742D40367E0031FDDB /* ShadowNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925312D40367E0031FDDB /* ShadowNodes.cpp */; };
+		036925752D40367E0031FDDB /* States.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925332D40367E0031FDDB /* States.cpp */; };
+		036925762D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925362D40367E0031FDDB /* ComponentDescriptors.cpp */; };
+		036925772D40367E0031FDDB /* EventEmitters.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925382D40367E0031FDDB /* EventEmitters.cpp */; };
+		036925782D40367E0031FDDB /* Props.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369253A2D40367E0031FDDB /* Props.cpp */; };
+		036925792D40367E0031FDDB /* ShadowNodes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369253D2D40367E0031FDDB /* ShadowNodes.cpp */; };
+		0369257A2D40367E0031FDDB /* States.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369253F2D40367E0031FDDB /* States.cpp */; };
+		0369257B2D40367E0031FDDB /* rngesturehandler_codegen-generated.mm in Sources */ = {isa = PBXBuildFile; fileRef = 036925452D40367E0031FDDB /* rngesturehandler_codegen-generated.mm */; };
+		0369257C2D40367E0031FDDB /* rnreanimated-generated.mm in Sources */ = {isa = PBXBuildFile; fileRef = 036925482D40367E0031FDDB /* rnreanimated-generated.mm */; };
+		0369257D2D40367E0031FDDB /* rnscreens-generated.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0369254B2D40367E0031FDDB /* rnscreens-generated.mm */; };
+		0369257E2D40367E0031FDDB /* rnsvg-generated.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0369254E2D40367E0031FDDB /* rnsvg-generated.mm */; };
+		0369257F2D40367E0031FDDB /* safeareacontext-generated.mm in Sources */ = {isa = PBXBuildFile; fileRef = 036925512D40367E0031FDDB /* safeareacontext-generated.mm */; };
+		036925802D40367E0031FDDB /* FBReactNativeSpecJSI-generated.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925542D40367E0031FDDB /* FBReactNativeSpecJSI-generated.cpp */; };
+		036925812D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.mm in Sources */ = {isa = PBXBuildFile; fileRef = 036925572D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.mm */; };
+		036925822D40367E0031FDDB /* ReactCodegen.podspec.json in Resources */ = {isa = PBXBuildFile; fileRef = 036925582D40367E0031FDDB /* ReactCodegen.podspec.json */; };
+		036925832D40367E0031FDDB /* rngesturehandler_codegenJSI-generated.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925592D40367E0031FDDB /* rngesturehandler_codegenJSI-generated.cpp */; };
+		036925842D40367E0031FDDB /* rnreanimatedJSI-generated.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369255B2D40367E0031FDDB /* rnreanimatedJSI-generated.cpp */; };
+		036925852D40367E0031FDDB /* rnscreensJSI-generated.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369255D2D40367E0031FDDB /* rnscreensJSI-generated.cpp */; };
+		036925862D40367E0031FDDB /* rnsvgJSI-generated.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0369255F2D40367E0031FDDB /* rnsvgJSI-generated.cpp */; };
+		036925872D40367E0031FDDB /* safeareacontextJSI-generated.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 036925612D40367E0031FDDB /* safeareacontextJSI-generated.cpp */; };
+		038BC3652D4184F500AEA32B /* GoogleService-Info-2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 038BC3642D4184F500AEA32B /* GoogleService-Info-2.plist */; };
+		0391CD262D3BBE46009E264E /* social_15707820.png in Resources */ = {isa = PBXBuildFile; fileRef = 0391CD252D3BBE46009E264E /* social_15707820.png */; };
+		0391CD282D3BCA90009E264E /* icons8-meta-24.png in Resources */ = {isa = PBXBuildFile; fileRef = 0391CD272D3BCA90009E264E /* icons8-meta-24.png */; };
 		0C80B921A6F3F58F76C31292 /* libPods-Whatsapp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-Whatsapp.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -31,6 +68,80 @@
 		00E356EE1AD99517003FC87E /* WhatsappTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WhatsappTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* WhatsappTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WhatsappTests.m; sourceTree = "<group>"; };
+		0369250F2D40367E0031FDDB /* FBReactNativeSpec-generated.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "FBReactNativeSpec-generated.mm"; sourceTree = "<group>"; };
+		036925102D40367E0031FDDB /* FBReactNativeSpec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FBReactNativeSpec.h; sourceTree = "<group>"; };
+		036925122D40367E0031FDDB /* ComponentDescriptors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ComponentDescriptors.cpp; sourceTree = "<group>"; };
+		036925132D40367E0031FDDB /* ComponentDescriptors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComponentDescriptors.h; sourceTree = "<group>"; };
+		036925142D40367E0031FDDB /* EventEmitters.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EventEmitters.cpp; sourceTree = "<group>"; };
+		036925152D40367E0031FDDB /* EventEmitters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventEmitters.h; sourceTree = "<group>"; };
+		036925162D40367E0031FDDB /* Props.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Props.cpp; sourceTree = "<group>"; };
+		036925172D40367E0031FDDB /* Props.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Props.h; sourceTree = "<group>"; };
+		036925182D40367E0031FDDB /* RCTComponentViewHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTComponentViewHelpers.h; sourceTree = "<group>"; };
+		036925192D40367E0031FDDB /* ShadowNodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShadowNodes.cpp; sourceTree = "<group>"; };
+		0369251A2D40367E0031FDDB /* ShadowNodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowNodes.h; sourceTree = "<group>"; };
+		0369251B2D40367E0031FDDB /* States.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = States.cpp; sourceTree = "<group>"; };
+		0369251C2D40367E0031FDDB /* States.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = States.h; sourceTree = "<group>"; };
+		0369251E2D40367E0031FDDB /* ComponentDescriptors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ComponentDescriptors.cpp; sourceTree = "<group>"; };
+		0369251F2D40367E0031FDDB /* ComponentDescriptors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComponentDescriptors.h; sourceTree = "<group>"; };
+		036925202D40367E0031FDDB /* EventEmitters.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EventEmitters.cpp; sourceTree = "<group>"; };
+		036925212D40367E0031FDDB /* EventEmitters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventEmitters.h; sourceTree = "<group>"; };
+		036925222D40367E0031FDDB /* Props.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Props.cpp; sourceTree = "<group>"; };
+		036925232D40367E0031FDDB /* Props.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Props.h; sourceTree = "<group>"; };
+		036925242D40367E0031FDDB /* RCTComponentViewHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTComponentViewHelpers.h; sourceTree = "<group>"; };
+		036925252D40367E0031FDDB /* ShadowNodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShadowNodes.cpp; sourceTree = "<group>"; };
+		036925262D40367E0031FDDB /* ShadowNodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowNodes.h; sourceTree = "<group>"; };
+		036925272D40367E0031FDDB /* States.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = States.cpp; sourceTree = "<group>"; };
+		036925282D40367E0031FDDB /* States.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = States.h; sourceTree = "<group>"; };
+		0369252A2D40367E0031FDDB /* ComponentDescriptors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ComponentDescriptors.cpp; sourceTree = "<group>"; };
+		0369252B2D40367E0031FDDB /* ComponentDescriptors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComponentDescriptors.h; sourceTree = "<group>"; };
+		0369252C2D40367E0031FDDB /* EventEmitters.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EventEmitters.cpp; sourceTree = "<group>"; };
+		0369252D2D40367E0031FDDB /* EventEmitters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventEmitters.h; sourceTree = "<group>"; };
+		0369252E2D40367E0031FDDB /* Props.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Props.cpp; sourceTree = "<group>"; };
+		0369252F2D40367E0031FDDB /* Props.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Props.h; sourceTree = "<group>"; };
+		036925302D40367E0031FDDB /* RCTComponentViewHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTComponentViewHelpers.h; sourceTree = "<group>"; };
+		036925312D40367E0031FDDB /* ShadowNodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShadowNodes.cpp; sourceTree = "<group>"; };
+		036925322D40367E0031FDDB /* ShadowNodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowNodes.h; sourceTree = "<group>"; };
+		036925332D40367E0031FDDB /* States.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = States.cpp; sourceTree = "<group>"; };
+		036925342D40367E0031FDDB /* States.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = States.h; sourceTree = "<group>"; };
+		036925362D40367E0031FDDB /* ComponentDescriptors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ComponentDescriptors.cpp; sourceTree = "<group>"; };
+		036925372D40367E0031FDDB /* ComponentDescriptors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ComponentDescriptors.h; sourceTree = "<group>"; };
+		036925382D40367E0031FDDB /* EventEmitters.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EventEmitters.cpp; sourceTree = "<group>"; };
+		036925392D40367E0031FDDB /* EventEmitters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventEmitters.h; sourceTree = "<group>"; };
+		0369253A2D40367E0031FDDB /* Props.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Props.cpp; sourceTree = "<group>"; };
+		0369253B2D40367E0031FDDB /* Props.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Props.h; sourceTree = "<group>"; };
+		0369253C2D40367E0031FDDB /* RCTComponentViewHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTComponentViewHelpers.h; sourceTree = "<group>"; };
+		0369253D2D40367E0031FDDB /* ShadowNodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ShadowNodes.cpp; sourceTree = "<group>"; };
+		0369253E2D40367E0031FDDB /* ShadowNodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShadowNodes.h; sourceTree = "<group>"; };
+		0369253F2D40367E0031FDDB /* States.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = States.cpp; sourceTree = "<group>"; };
+		036925402D40367E0031FDDB /* States.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = States.h; sourceTree = "<group>"; };
+		036925452D40367E0031FDDB /* rngesturehandler_codegen-generated.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "rngesturehandler_codegen-generated.mm"; sourceTree = "<group>"; };
+		036925462D40367E0031FDDB /* rngesturehandler_codegen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rngesturehandler_codegen.h; sourceTree = "<group>"; };
+		036925482D40367E0031FDDB /* rnreanimated-generated.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "rnreanimated-generated.mm"; sourceTree = "<group>"; };
+		036925492D40367E0031FDDB /* rnreanimated.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnreanimated.h; sourceTree = "<group>"; };
+		0369254B2D40367E0031FDDB /* rnscreens-generated.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "rnscreens-generated.mm"; sourceTree = "<group>"; };
+		0369254C2D40367E0031FDDB /* rnscreens.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnscreens.h; sourceTree = "<group>"; };
+		0369254E2D40367E0031FDDB /* rnsvg-generated.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "rnsvg-generated.mm"; sourceTree = "<group>"; };
+		0369254F2D40367E0031FDDB /* rnsvg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnsvg.h; sourceTree = "<group>"; };
+		036925512D40367E0031FDDB /* safeareacontext-generated.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "safeareacontext-generated.mm"; sourceTree = "<group>"; };
+		036925522D40367E0031FDDB /* safeareacontext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = safeareacontext.h; sourceTree = "<group>"; };
+		036925542D40367E0031FDDB /* FBReactNativeSpecJSI-generated.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "FBReactNativeSpecJSI-generated.cpp"; sourceTree = "<group>"; };
+		036925552D40367E0031FDDB /* FBReactNativeSpecJSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FBReactNativeSpecJSI.h; sourceTree = "<group>"; };
+		036925562D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RCTModulesConformingToProtocolsProvider.h; sourceTree = "<group>"; };
+		036925572D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = RCTModulesConformingToProtocolsProvider.mm; sourceTree = "<group>"; };
+		036925582D40367E0031FDDB /* ReactCodegen.podspec.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ReactCodegen.podspec.json; sourceTree = "<group>"; };
+		036925592D40367E0031FDDB /* rngesturehandler_codegenJSI-generated.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "rngesturehandler_codegenJSI-generated.cpp"; sourceTree = "<group>"; };
+		0369255A2D40367E0031FDDB /* rngesturehandler_codegenJSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rngesturehandler_codegenJSI.h; sourceTree = "<group>"; };
+		0369255B2D40367E0031FDDB /* rnreanimatedJSI-generated.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "rnreanimatedJSI-generated.cpp"; sourceTree = "<group>"; };
+		0369255C2D40367E0031FDDB /* rnreanimatedJSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnreanimatedJSI.h; sourceTree = "<group>"; };
+		0369255D2D40367E0031FDDB /* rnscreensJSI-generated.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "rnscreensJSI-generated.cpp"; sourceTree = "<group>"; };
+		0369255E2D40367E0031FDDB /* rnscreensJSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnscreensJSI.h; sourceTree = "<group>"; };
+		0369255F2D40367E0031FDDB /* rnsvgJSI-generated.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "rnsvgJSI-generated.cpp"; sourceTree = "<group>"; };
+		036925602D40367E0031FDDB /* rnsvgJSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = rnsvgJSI.h; sourceTree = "<group>"; };
+		036925612D40367E0031FDDB /* safeareacontextJSI-generated.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "safeareacontextJSI-generated.cpp"; sourceTree = "<group>"; };
+		036925622D40367E0031FDDB /* safeareacontextJSI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = safeareacontextJSI.h; sourceTree = "<group>"; };
+		038BC3642D4184F500AEA32B /* GoogleService-Info-2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info-2.plist"; path = "../../../Downloads/GoogleService-Info-2.plist"; sourceTree = "<group>"; };
+		0391CD252D3BBE46009E264E /* social_15707820.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = social_15707820.png; path = ../../../Downloads/social_15707820.png; sourceTree = "<group>"; };
+		0391CD272D3BCA90009E264E /* icons8-meta-24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-meta-24.png"; path = "../../../Downloads/icons8-meta-24.png"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Whatsapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Whatsapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Whatsapp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = Whatsapp/AppDelegate.mm; sourceTree = "<group>"; };
@@ -85,6 +196,204 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		036925112D40367E0031FDDB /* FBReactNativeSpec */ = {
+			isa = PBXGroup;
+			children = (
+				0369250F2D40367E0031FDDB /* FBReactNativeSpec-generated.mm */,
+				036925102D40367E0031FDDB /* FBReactNativeSpec.h */,
+			);
+			path = FBReactNativeSpec;
+			sourceTree = "<group>";
+		};
+		0369251D2D40367E0031FDDB /* rngesturehandler_codegen */ = {
+			isa = PBXGroup;
+			children = (
+				036925122D40367E0031FDDB /* ComponentDescriptors.cpp */,
+				036925132D40367E0031FDDB /* ComponentDescriptors.h */,
+				036925142D40367E0031FDDB /* EventEmitters.cpp */,
+				036925152D40367E0031FDDB /* EventEmitters.h */,
+				036925162D40367E0031FDDB /* Props.cpp */,
+				036925172D40367E0031FDDB /* Props.h */,
+				036925182D40367E0031FDDB /* RCTComponentViewHelpers.h */,
+				036925192D40367E0031FDDB /* ShadowNodes.cpp */,
+				0369251A2D40367E0031FDDB /* ShadowNodes.h */,
+				0369251B2D40367E0031FDDB /* States.cpp */,
+				0369251C2D40367E0031FDDB /* States.h */,
+			);
+			path = rngesturehandler_codegen;
+			sourceTree = "<group>";
+		};
+		036925292D40367E0031FDDB /* rnscreens */ = {
+			isa = PBXGroup;
+			children = (
+				0369251E2D40367E0031FDDB /* ComponentDescriptors.cpp */,
+				0369251F2D40367E0031FDDB /* ComponentDescriptors.h */,
+				036925202D40367E0031FDDB /* EventEmitters.cpp */,
+				036925212D40367E0031FDDB /* EventEmitters.h */,
+				036925222D40367E0031FDDB /* Props.cpp */,
+				036925232D40367E0031FDDB /* Props.h */,
+				036925242D40367E0031FDDB /* RCTComponentViewHelpers.h */,
+				036925252D40367E0031FDDB /* ShadowNodes.cpp */,
+				036925262D40367E0031FDDB /* ShadowNodes.h */,
+				036925272D40367E0031FDDB /* States.cpp */,
+				036925282D40367E0031FDDB /* States.h */,
+			);
+			path = rnscreens;
+			sourceTree = "<group>";
+		};
+		036925352D40367E0031FDDB /* rnsvg */ = {
+			isa = PBXGroup;
+			children = (
+				0369252A2D40367E0031FDDB /* ComponentDescriptors.cpp */,
+				0369252B2D40367E0031FDDB /* ComponentDescriptors.h */,
+				0369252C2D40367E0031FDDB /* EventEmitters.cpp */,
+				0369252D2D40367E0031FDDB /* EventEmitters.h */,
+				0369252E2D40367E0031FDDB /* Props.cpp */,
+				0369252F2D40367E0031FDDB /* Props.h */,
+				036925302D40367E0031FDDB /* RCTComponentViewHelpers.h */,
+				036925312D40367E0031FDDB /* ShadowNodes.cpp */,
+				036925322D40367E0031FDDB /* ShadowNodes.h */,
+				036925332D40367E0031FDDB /* States.cpp */,
+				036925342D40367E0031FDDB /* States.h */,
+			);
+			path = rnsvg;
+			sourceTree = "<group>";
+		};
+		036925412D40367E0031FDDB /* safeareacontext */ = {
+			isa = PBXGroup;
+			children = (
+				036925362D40367E0031FDDB /* ComponentDescriptors.cpp */,
+				036925372D40367E0031FDDB /* ComponentDescriptors.h */,
+				036925382D40367E0031FDDB /* EventEmitters.cpp */,
+				036925392D40367E0031FDDB /* EventEmitters.h */,
+				0369253A2D40367E0031FDDB /* Props.cpp */,
+				0369253B2D40367E0031FDDB /* Props.h */,
+				0369253C2D40367E0031FDDB /* RCTComponentViewHelpers.h */,
+				0369253D2D40367E0031FDDB /* ShadowNodes.cpp */,
+				0369253E2D40367E0031FDDB /* ShadowNodes.h */,
+				0369253F2D40367E0031FDDB /* States.cpp */,
+				036925402D40367E0031FDDB /* States.h */,
+			);
+			path = safeareacontext;
+			sourceTree = "<group>";
+		};
+		036925422D40367E0031FDDB /* components */ = {
+			isa = PBXGroup;
+			children = (
+				0369251D2D40367E0031FDDB /* rngesturehandler_codegen */,
+				036925292D40367E0031FDDB /* rnscreens */,
+				036925352D40367E0031FDDB /* rnsvg */,
+				036925412D40367E0031FDDB /* safeareacontext */,
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
+		036925432D40367E0031FDDB /* renderer */ = {
+			isa = PBXGroup;
+			children = (
+				036925422D40367E0031FDDB /* components */,
+			);
+			path = renderer;
+			sourceTree = "<group>";
+		};
+		036925442D40367E0031FDDB /* react */ = {
+			isa = PBXGroup;
+			children = (
+				036925432D40367E0031FDDB /* renderer */,
+			);
+			path = react;
+			sourceTree = "<group>";
+		};
+		036925472D40367E0031FDDB /* rngesturehandler_codegen */ = {
+			isa = PBXGroup;
+			children = (
+				036925452D40367E0031FDDB /* rngesturehandler_codegen-generated.mm */,
+				036925462D40367E0031FDDB /* rngesturehandler_codegen.h */,
+			);
+			path = rngesturehandler_codegen;
+			sourceTree = "<group>";
+		};
+		0369254A2D40367E0031FDDB /* rnreanimated */ = {
+			isa = PBXGroup;
+			children = (
+				036925482D40367E0031FDDB /* rnreanimated-generated.mm */,
+				036925492D40367E0031FDDB /* rnreanimated.h */,
+			);
+			path = rnreanimated;
+			sourceTree = "<group>";
+		};
+		0369254D2D40367E0031FDDB /* rnscreens */ = {
+			isa = PBXGroup;
+			children = (
+				0369254B2D40367E0031FDDB /* rnscreens-generated.mm */,
+				0369254C2D40367E0031FDDB /* rnscreens.h */,
+			);
+			path = rnscreens;
+			sourceTree = "<group>";
+		};
+		036925502D40367E0031FDDB /* rnsvg */ = {
+			isa = PBXGroup;
+			children = (
+				0369254E2D40367E0031FDDB /* rnsvg-generated.mm */,
+				0369254F2D40367E0031FDDB /* rnsvg.h */,
+			);
+			path = rnsvg;
+			sourceTree = "<group>";
+		};
+		036925532D40367E0031FDDB /* safeareacontext */ = {
+			isa = PBXGroup;
+			children = (
+				036925512D40367E0031FDDB /* safeareacontext-generated.mm */,
+				036925522D40367E0031FDDB /* safeareacontext.h */,
+			);
+			path = safeareacontext;
+			sourceTree = "<group>";
+		};
+		036925632D40367E0031FDDB /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				036925112D40367E0031FDDB /* FBReactNativeSpec */,
+				036925442D40367E0031FDDB /* react */,
+				036925472D40367E0031FDDB /* rngesturehandler_codegen */,
+				0369254A2D40367E0031FDDB /* rnreanimated */,
+				0369254D2D40367E0031FDDB /* rnscreens */,
+				036925502D40367E0031FDDB /* rnsvg */,
+				036925532D40367E0031FDDB /* safeareacontext */,
+				036925542D40367E0031FDDB /* FBReactNativeSpecJSI-generated.cpp */,
+				036925552D40367E0031FDDB /* FBReactNativeSpecJSI.h */,
+				036925562D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.h */,
+				036925572D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.mm */,
+				036925582D40367E0031FDDB /* ReactCodegen.podspec.json */,
+				036925592D40367E0031FDDB /* rngesturehandler_codegenJSI-generated.cpp */,
+				0369255A2D40367E0031FDDB /* rngesturehandler_codegenJSI.h */,
+				0369255B2D40367E0031FDDB /* rnreanimatedJSI-generated.cpp */,
+				0369255C2D40367E0031FDDB /* rnreanimatedJSI.h */,
+				0369255D2D40367E0031FDDB /* rnscreensJSI-generated.cpp */,
+				0369255E2D40367E0031FDDB /* rnscreensJSI.h */,
+				0369255F2D40367E0031FDDB /* rnsvgJSI-generated.cpp */,
+				036925602D40367E0031FDDB /* rnsvgJSI.h */,
+				036925612D40367E0031FDDB /* safeareacontextJSI-generated.cpp */,
+				036925622D40367E0031FDDB /* safeareacontextJSI.h */,
+			);
+			path = ios;
+			sourceTree = "<group>";
+		};
+		036925642D40367E0031FDDB /* generated */ = {
+			isa = PBXGroup;
+			children = (
+				036925632D40367E0031FDDB /* ios */,
+			);
+			path = generated;
+			sourceTree = "<group>";
+		};
+		036925652D40367E0031FDDB /* build */ = {
+			isa = PBXGroup;
+			children = (
+				036925642D40367E0031FDDB /* generated */,
+			);
+			path = build;
+			sourceTree = "<group>";
+		};
 		13B07FAE1A68108700A75B9A /* Whatsapp */ = {
 			isa = PBXGroup;
 			children = (
@@ -93,6 +402,8 @@
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
+				0391CD252D3BBE46009E264E /* social_15707820.png */,
+				0391CD272D3BCA90009E264E /* icons8-meta-24.png */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
 			);
@@ -119,6 +430,8 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				038BC3642D4184F500AEA32B /* GoogleService-Info-2.plist */,
+				036925652D40367E0031FDDB /* build */,
 				13B07FAE1A68108700A75B9A /* Whatsapp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* WhatsappTests */,
@@ -222,6 +535,9 @@
 				Base,
 			);
 			mainGroup = 83CBB9F61A601CBA00E9B192;
+			packageReferences = (
+				038BC3662D418D4600AEA32B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 83CBBA001A601CBA00E9B192 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -245,7 +561,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				036925822D40367E0031FDDB /* ReactCodegen.podspec.json in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				038BC3652D4184F500AEA32B /* GoogleService-Info-2.plist in Resources */,
+				0391CD262D3BBE46009E264E /* social_15707820.png in Resources */,
+				0391CD282D3BCA90009E264E /* icons8-meta-24.png in Resources */,
 				E06A8B180DE9E567372CD60A /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -396,8 +716,41 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				036925852D40367E0031FDDB /* rnscreensJSI-generated.cpp in Sources */,
+				036925692D40367E0031FDDB /* Props.cpp in Sources */,
+				0369256E2D40367E0031FDDB /* Props.cpp in Sources */,
+				036925872D40367E0031FDDB /* safeareacontextJSI-generated.cpp in Sources */,
+				036925762D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */,
+				0369257D2D40367E0031FDDB /* rnscreens-generated.mm in Sources */,
+				036925862D40367E0031FDDB /* rnsvgJSI-generated.cpp in Sources */,
+				036925782D40367E0031FDDB /* Props.cpp in Sources */,
+				036925682D40367E0031FDDB /* EventEmitters.cpp in Sources */,
+				0369256C2D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */,
+				036925772D40367E0031FDDB /* EventEmitters.cpp in Sources */,
+				036925662D40367E0031FDDB /* FBReactNativeSpec-generated.mm in Sources */,
+				0369257F2D40367E0031FDDB /* safeareacontext-generated.mm in Sources */,
+				036925842D40367E0031FDDB /* rnreanimatedJSI-generated.cpp in Sources */,
+				036925722D40367E0031FDDB /* EventEmitters.cpp in Sources */,
+				0369256A2D40367E0031FDDB /* ShadowNodes.cpp in Sources */,
+				036925832D40367E0031FDDB /* rngesturehandler_codegenJSI-generated.cpp in Sources */,
+				036925712D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */,
+				0369257C2D40367E0031FDDB /* rnreanimated-generated.mm in Sources */,
+				036925802D40367E0031FDDB /* FBReactNativeSpecJSI-generated.cpp in Sources */,
+				036925702D40367E0031FDDB /* States.cpp in Sources */,
+				0369256D2D40367E0031FDDB /* EventEmitters.cpp in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
+				036925752D40367E0031FDDB /* States.cpp in Sources */,
+				036925812D40367E0031FDDB /* RCTModulesConformingToProtocolsProvider.mm in Sources */,
+				036925672D40367E0031FDDB /* ComponentDescriptors.cpp in Sources */,
+				0369257A2D40367E0031FDDB /* States.cpp in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
+				0369257B2D40367E0031FDDB /* rngesturehandler_codegen-generated.mm in Sources */,
+				036925792D40367E0031FDDB /* ShadowNodes.cpp in Sources */,
+				0369256B2D40367E0031FDDB /* States.cpp in Sources */,
+				036925732D40367E0031FDDB /* Props.cpp in Sources */,
+				036925742D40367E0031FDDB /* ShadowNodes.cpp in Sources */,
+				0369257E2D40367E0031FDDB /* rnsvg-generated.mm in Sources */,
+				0369256F2D40367E0031FDDB /* ShadowNodes.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -586,10 +939,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -658,10 +1008,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
@@ -700,6 +1047,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		038BC3662D418D4600AEA32B /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 11.7.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 83CBB9F71A601CBA00E9B192 /* Project object */;
 }
